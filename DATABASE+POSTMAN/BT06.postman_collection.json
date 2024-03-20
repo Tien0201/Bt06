@@ -1,0 +1,192 @@
+{
+	"info": {
+		"_postman_id": "4c7a7948-1ad4-48ee-bb98-22e40e0f651a",
+		"name": "BT06",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26627646"
+	},
+	"item": [
+		{
+			"name": "Register",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"username\": \"zz1xxx1zz\",\r\n  \"email\": \"abc@gmaill.com\",\r\n  \"password\": \"1234\"\r\n}   "
+				},
+				"url": {
+					"raw": "http://localhost:3500/auth/register",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3500",
+					"path": [
+						"auth",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"username\": \"zz1xxx1zz\",\r\n  \"password\": \"1234\"\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3500/auth/login",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3500",
+					"path": [
+						"auth",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Like Res",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3500/restaurant/20/like",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3500",
+					"path": [
+						"restaurant",
+						"20",
+						"like"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "User Like List",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3500/restaurant/userList",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3500",
+					"path": [
+						"restaurant",
+						"userList"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Res Like List",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3500/restaurant/6",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3500",
+					"path": [
+						"restaurant",
+						"6"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Rate Res",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"content\" : \"dở quá dở\",\r\n  \"ammount\" : 2\r\n}\r\n"
+				},
+				"url": {
+					"raw": "http://localhost:3500/restaurant/10/rating",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3500",
+					"path": [
+						"restaurant",
+						"10",
+						"rating"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Order",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"items\": [\r\n        { \"itemId\": 1, \"quantity\": 2 },\r\n        { \"itemId\": 2, \"quantity\": 1 },       \r\n        { \"itemId\": 10, \"quantity\": 16 }\r\n    ]\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:3500/order/createOrder",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3500",
+					"path": [
+						"order",
+						"createOrder"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

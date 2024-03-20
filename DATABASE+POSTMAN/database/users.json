@@ -1,0 +1,134 @@
+[
+  {
+    "user_id": 1,
+    "full_name": "John Doe",
+    "email": "john@example.com",
+    "password": "password123"
+  },
+  {
+    "user_id": 2,
+    "full_name": "Alice Smith",
+    "email": "alice@example.com",
+    "password": "alice_password"
+  },
+  {
+    "user_id": 3,
+    "full_name": "Bob Johnson",
+    "email": "bob@example.com",
+    "password": "bob_password"
+  },
+  {
+    "user_id": 4,
+    "full_name": "Emma Brown",
+    "email": "emma@example.com",
+    "password": "emma123"
+  },
+  {
+    "user_id": 5,
+    "full_name": "Michael Davis",
+    "email": "michael@example.com",
+    "password": "michael_password"
+  },
+  {
+    "user_id": 6,
+    "full_name": "Emily Wilson",
+    "email": "emily@example.com",
+    "password": "emily123"
+  },
+  {
+    "user_id": 7,
+    "full_name": "David Martinez",
+    "email": "david@example.com",
+    "password": "david_password"
+  },
+  {
+    "user_id": 8,
+    "full_name": "Jennifer Taylor",
+    "email": "jennifer@example.com",
+    "password": "jennifer123"
+  },
+  {
+    "user_id": 9,
+    "full_name": "Christopher Anderson",
+    "email": "chris@example.com",
+    "password": "chris_password"
+  },
+  {
+    "user_id": 10,
+    "full_name": "Jessica Thomas",
+    "email": "jessica@example.com",
+    "password": "jessica123"
+  },
+  {
+    "user_id": 11,
+    "full_name": "Matthew Jackson",
+    "email": "matthew@example.com",
+    "password": "matthew_password"
+  },
+  {
+    "user_id": 12,
+    "full_name": "Sarah White",
+    "email": "sarah@example.com",
+    "password": "sarah123"
+  },
+  {
+    "user_id": 13,
+    "full_name": "Daniel Harris",
+    "email": "daniel@example.com",
+    "password": "daniel_password"
+  },
+  {
+    "user_id": 14,
+    "full_name": "Elizabeth Martin",
+    "email": "elizabeth@example.com",
+    "password": "elizabeth123"
+  },
+  {
+    "user_id": 15,
+    "full_name": "James Thompson",
+    "email": "james@example.com",
+    "password": "james_password"
+  },
+  {
+    "user_id": 16,
+    "full_name": "Olivia Garcia",
+    "email": "olivia@example.com",
+    "password": "olivia123"
+  },
+  {
+    "user_id": 17,
+    "full_name": "William Martinez",
+    "email": "william@example.com",
+    "password": "william_password"
+  },
+  {
+    "user_id": 18,
+    "full_name": "Isabella Robinson",
+    "email": "isabella@example.com",
+    "password": "isabella123"
+  },
+  {
+    "user_id": 19,
+    "full_name": "Benjamin Clark",
+    "email": "benjamin@example.com",
+    "password": "benjamin_password"
+  },
+  {
+    "user_id": 20,
+    "full_name": "Sophia Walker",
+    "email": "sophia@example.com",
+    "password": "sophia123"
+  },
+  {
+    "user_id": 21,
+    "full_name": "test cau4",
+    "email": "sophia11@example.com",
+    "password": "aaaaaa"
+  },
+  {
+    "user_id": 22,
+    "full_name": "zz1xxx1zz",
+    "email": "abc@gmaill.com",
+    "password": "$2b$10$DztPTC1Pt2wszGUq7dNwKeCrVgGxeKEtyaFy7v0PQ0lO/Efkfp942"
+  }
+]

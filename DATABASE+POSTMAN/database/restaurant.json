@@ -1,0 +1,122 @@
+[
+  {
+    "res_id": 1,
+    "res_name": "The Rusty Spoon",
+    "image": "images/rusty_spoon.jpg",
+    "des": "A cozy restaurant serving comfort food."
+  },
+  {
+    "res_id": 2,
+    "res_name": "La Petite Boulangerie",
+    "image": "images/la_petite_boulangerie.jpg",
+    "des": "A charming bakery offering fresh pastries and breads."
+  },
+  {
+    "res_id": 3,
+    "res_name": "The Green Leaf Cafe",
+    "image": "images/green_leaf_cafe.jpg",
+    "des": "A vegetarian-friendly cafe with a focus on organic ingredients."
+  },
+  {
+    "res_id": 4,
+    "res_name": "Sakura Sushi Bar",
+    "image": "images/sakura_sushi_bar.jpg",
+    "des": "An authentic Japanese sushi bar with a wide selection of sushi rolls."
+  },
+  {
+    "res_id": 5,
+    "res_name": "The Fire Pit Steakhouse",
+    "image": "images/fire_pit_steakhouse.jpg",
+    "des": "A steakhouse known for its sizzling steaks and grilled specialties."
+  },
+  {
+    "res_id": 6,
+    "res_name": "Golden Dragon Chinese Restaurant",
+    "image": "images/golden_dragon.jpg",
+    "des": "A popular Chinese restaurant serving traditional dishes."
+  },
+  {
+    "res_id": 7,
+    "res_name": "Mama Mia Italian Trattoria",
+    "image": "images/mama_mia_italian.jpg",
+    "des": "A family-owned Italian trattoria known for its homemade pasta and pizza."
+  },
+  {
+    "res_id": 8,
+    "res_name": "Thai Orchid",
+    "image": "images/thai_orchid.jpg",
+    "des": "An elegant Thai restaurant offering authentic flavors and spices."
+  },
+  {
+    "res_id": 9,
+    "res_name": "The Seafood Shack",
+    "image": "images/seafood_shack.jpg",
+    "des": "A casual seafood restaurant serving fresh catches of the day."
+  },
+  {
+    "res_id": 10,
+    "res_name": "Café Parisien",
+    "image": "images/cafe_parisien.jpg",
+    "des": "A charming French cafe with a selection of pastries and coffees."
+  },
+  {
+    "res_id": 11,
+    "res_name": "The Garden Terrace",
+    "image": "images/garden_terrace.jpg",
+    "des": "A rooftop restaurant offering panoramic views of the city."
+  },
+  {
+    "res_id": 12,
+    "res_name": "El Rancho Mexican Grill",
+    "image": "images/el_rancho_mexican.jpg",
+    "des": "A lively Mexican grill serving flavorful tacos and margaritas."
+  },
+  {
+    "res_id": 13,
+    "res_name": "Taste of India",
+    "image": "images/taste_of_india.jpg",
+    "des": "An authentic Indian restaurant with a variety of curries and tandoori dishes."
+  },
+  {
+    "res_id": 14,
+    "res_name": "Bella Napoli Pizzeria",
+    "image": "images/bella_napoli_pizzeria.jpg",
+    "des": "A neighborhood pizzeria known for its wood-fired pizzas."
+  },
+  {
+    "res_id": 15,
+    "res_name": "The Hungry Bear Diner",
+    "image": "images/hungry_bear_diner.jpg",
+    "des": "A classic American diner serving hearty breakfasts and burgers."
+  },
+  {
+    "res_id": 16,
+    "res_name": "Le Bistro Français",
+    "image": "images/le_bistro_francais.jpg",
+    "des": "An upscale French bistro offering gourmet cuisine and fine wines."
+  },
+  {
+    "res_id": 17,
+    "res_name": "Sabor Latino",
+    "image": "images/sabor_latino.jpg",
+    "des": "A vibrant Latin American restaurant with live music and dancing."
+  },
+  {
+    "res_id": 18,
+    "res_name": "The Cozy Cabin",
+    "image": "images/cozy_cabin.jpg",
+    "des": "A rustic cabin-themed restaurant serving comfort food and craft cocktails."
+  },
+  {
+    "res_id": 19,
+    "res_name": "Noodle House",
+    "image": "images/noodle_house.jpg",
+    "des": "A casual noodle house specializing in Asian noodle dishes."
+  },
+  {
+    "res_id": 20,
+    "res_name": "Gourmet Grille",
+    "image": "images/gourmet_grille.jpg",
+    "des": "A contemporary grill restaurant with a focus on locally-sourced ingredients."
+  }
+]

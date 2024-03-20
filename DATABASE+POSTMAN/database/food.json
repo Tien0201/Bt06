@@ -1,0 +1,82 @@
+[
+  {
+    "food_id": 1,
+    "food_name": "Khoai tây chiên",
+    "image": "http://dummyimage.com/206x100.png/dddddd/000000",
+    "price": 50,
+    "des": "khoai khoai",
+    "type_id": 2
+  },
+  {
+    "food_id": 2,
+    "food_name": "Gà Sốt Pho Mai",
+    "image": "http://dummyimage.com/206x100.png/dddddd/000000",
+    "price": 100,
+    "des": "haha",
+    "type_id": 1
+  },
+  {
+    "food_id": 3,
+    "food_name": "Pepsi",
+    "image": "http://dummyimage.com/206x100.png/dddddd/000000",
+    "price": 20,
+    "des": "hehe",
+    "type_id": 4
+  },
+  {
+    "food_id": 4,
+    "food_name": "Mirinda",
+    "image": "http://dummyimage.com/206x100.png/dddddd/000000",
+    "price": 18,
+    "des": "hihi",
+    "type_id": 4
+  },
+  {
+    "food_id": 5,
+    "food_name": "Burger Tôm",
+    "image": "http://dummyimage.com/206x100.png/dddddd/000000",
+    "price": 40,
+    "des": "huhu",
+    "type_id": 3
+  },
+  {
+    "food_id": 6,
+    "food_name": "Burger Phô Mai",
+    "image": "http://dummyimage.com/206x100.png/dddddd/000000",
+    "price": 39,
+    "des": "ehehe",
+    "type_id": 3
+  },
+  {
+    "food_id": 7,
+    "food_name": "Gà Xiên Que",
+    "image": "http://dummyimage.com/206x100.png/dddddd/000000",
+    "price": 35,
+    "des": "ahaha",
+    "type_id": 1
+  },
+  {
+    "food_id": 8,
+    "food_name": "7 UP",
+    "image": "http://dummyimage.com/206x100.png/dddddd/000000",
+    "price": 20,
+    "des": "uhuhu",
+    "type_id": 4
+  },
+  {
+    "food_id": 9,
+    "food_name": "Gà Lăc",
+    "image": "http://dummyimage.com/206x100.png/dddddd/000000",
+    "price": 36,
+    "des": "ihihi",
+    "type_id": 1
+  },
+  {
+    "food_id": 10,
+    "food_name": "Khoai Tây Lắc",
+    "image": "http://dummyimage.com/206x100.png/dddddd/000000",
+    "price": 40,
+    "des": "aaaaa",
+    "type_id": 2
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "type_id": 1,
+    "type_name": "Gà"
+  },
+  {
+    "type_id": 2,
+    "type_name": "Khoai"
+  },
+  {
+    "type_id": 3,
+    "type_name": "Burger"
+  },
+  {
+    "type_id": 4,
+    "type_name": "Nước"
+  },
+  {
+    "type_id": 5,
+    "type_name": "Kem"
+  }
+]
