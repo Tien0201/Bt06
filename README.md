@@ -1,0 +1,2 @@
+mentor sử dụng database của em nha vì em có chỉnh sửa 1 chút 
+các chức năng cần phải đăng nhập mới có thể sử dụng
